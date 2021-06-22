@@ -1,0 +1,14 @@
+{
+  "name": "kafka-project",
+  "version": "1.0.0",
+  "description": "Sample kafka project with node",
+  "main": "index.js",
+  "author": "ashfaqnisar",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
